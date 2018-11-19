@@ -61,7 +61,7 @@ CREATE TABLE Students(student_id INT NOT NULL AUTO_INCREMENT,
 	student_year_passed VARCHAR(10) NOT NULL,
 	PRIMARY KEY (student_id)
 );
-grant all privileges on studentapp.* to 'student'@'10.128.0.5' identified by 'student@1';
+grant all privileges on studentapp.* to 'student'@'10.142.0.4' identified by 'student@1';
 
 ### Run the following command to create DB
 # mysql <studentapp.sql
