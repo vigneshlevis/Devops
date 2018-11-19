@@ -1,7 +1,7 @@
 # Assuming the following .
 
-#### `Tomcat Server IP Address : 10.128.0.5`
-#### `DB Server IP Address : 10.128.0.6`
+#### `Tomcat Server IP Address : 10.142.0.3`
+#### `DB Server IP Address : 10.142.0.4`
 #### `OS on both machines is CentOS 7`
 
 
